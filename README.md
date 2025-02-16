@@ -2,6 +2,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=woods-one&langs_count=3&theme=dark&hide=jupyter%20notebook,html)
 
 ## self-introduction
+林 壱仁  
 I am 4th year College of Technology student.  
 I specialize in making game client.  
 I am most skilled and comfortable using C#  
