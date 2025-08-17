@@ -3,7 +3,7 @@
 
 ## self-introduction
 林 壱仁  
-I am 4th year College of Technology student.  
+I am 5th year College of Technology student.  
 I specialize in making game client.  
 I am most skilled and comfortable using C#  
 
